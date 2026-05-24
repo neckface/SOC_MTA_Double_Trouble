@@ -1,4 +1,4 @@
-# [Project Name / Incident Report]
+# [Double Trouble / Incident Report]
 
 This repository contains the final forensic analysis and incident report for the traffic analysis exercise.
 https://www.malware-traffic-analysis.net/2017/04/21/index.html
