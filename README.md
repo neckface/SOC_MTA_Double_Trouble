@@ -9,15 +9,11 @@ https://www.malware-traffic-analysis.net/2017/04/21/index.html
 
 ## 📞 Contact
 If you have any questions or feedback:
-* GitHub: [@neckface]
+* GitHub: [@stani-zholob]
 * Email: [zholobstanislav408@gmail.com]
 
-# Double Trouble
 
-Schwierigkeit: Mittel
-
-<aside>
-🛠
+# Double Trouble Analysis
 
 ## SCENARIO
 
